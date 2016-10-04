@@ -1,11 +1,11 @@
 Package: paterna
-Title: What the Package Does (one line, title case)
+Title: Phylogenetic Analysis of Topology in Ecological Relationship Networks and Associations
 Version: 0.0.0.9000
-Authors@R: person("First", "Last", email = "first.last@example.com", role = c("aut", "cre"))
-Description: What the package does (one paragraph).
+Authors@R: person(“Alejandro”, “Damian Serrano“, email = “alejandro_damianserrano@brown.edu”, role = c("aut", "cre"))
+Description: Analysis of phylogenetic signal and coevolutionary processes in foodwebs and relaxed interspecific association matrices.
 Depends:
     R (>= 3.2.4)
-License: What license is it under?
+License: Creative Commons
 Encoding: UTF-8
 LazyData: true
 RoxygenNote: 5.0.1
