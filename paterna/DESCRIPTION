@@ -1,7 +1,7 @@
 Package: paterna
 Title: Phylogenetic Analysis of Topology in Ecological Relationship Networks and Associations
 Version: 0.0.0.9000
-Authors@R: person(“Alejandro”, “Damian Serrano“, email = “alejandro_damianserrano@brown.edu”, role = c("aut", "cre"))
+Authors@R: person("Alejandro", "Damian Serrano", email = "alejandro_damianserrano@brown.edu", role = c("aut", "cre"))
 Description: Analysis of phylogenetic signal and coevolutionary processes in foodwebs and relaxed interspecific association matrices.
 Depends:
     R (>= 3.2.4)
