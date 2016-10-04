@@ -19,4 +19,4 @@ packagename <- function(){ print("Welcome to the R package Phylogenetic Analysis
 #' packageacro()
 #' "PATERNA"
 
-packageacro <- function(){print("PATERNA")}
+packageacro <- function(){ print("PATERNA")}
