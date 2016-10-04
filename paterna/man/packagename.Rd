@@ -10,6 +10,7 @@ packagename()
 A function that states the name of the package
 }
 \examples{
+packagename()
 Type packagename() into the console to expand the acronym.
 }
 \keyword{Name}
